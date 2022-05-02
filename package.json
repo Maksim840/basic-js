@@ -4,18 +4,12 @@
   "description": "Tasks for RSS",
   "main": "index.js",
   "type": "module",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
   "engines": {
     "node": ">=14.17.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlreadyBored/basic-js.git"
+    "url": "git+https://github.com/maksim840/basic-js.git"
   },
   "keywords": [
     "RSS",
